@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jedeegan
-- 👀 I’m interested in machine learning, deep learning, computer vision, and natural language processing
-- 🌱 I’m currently learning all of the above (steep curves) and code in Python and node.js
-- 💞️ I’m looking to collaborate on a machine-learning or deep-learning project that models crime data
+- 👀 I’m interested in machine learning, deep learning, computer vision, natural language processing, and generative AI
+- 🌱 I’m currently studying all of the above. I code in Java, Python, and JavaScript. Learning Julia and Go.
+- 💞️ I’m want to collaborate on a machine-learning / deep-learning project that models crime data
 - 📫 How to reach me: jedeegan@suddenlink.net
 
 <!---
